@@ -166,5 +166,29 @@
         "environmental-science"
       ]
     }
+    ,
+    {
+      "name": "data-007",
+      "description": " dataset containing about 800 images of pollen grains, plus labels indicating their species",
+      "tasks": [
+        "classification"
+      ],
+      "domains": [
+        "computer-vision",
+        "biology"
+      ],
+      "url": "https://zenodo.org/record/7113865/files/PollenData.zip",
+      "format": "image",
+      "labels_provided": false,
+      "institution": [
+        "Birmingham University"
+      ],
+      "tags": [
+        "2D",
+        "Pollen",
+        "biology",
+        "environmental-science"
+      ]
+    }
   ]
 }
